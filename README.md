@@ -1,6 +1,10 @@
+<div align=center>
+    <img src= "https://raw.githubusercontent.com/PaperMC/Folia/master/folia.png">
 
-# Giới thiệu về phần mềm Folia
-[](https://raw.githubusercontent.com/PaperMC/Folia/master/folia.png)
+</div>
+
+
+
 
 ## Về Dự án Folia
 
